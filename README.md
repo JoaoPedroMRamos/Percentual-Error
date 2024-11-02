@@ -1,6 +1,7 @@
 # Percentual-Error
 Algoritm to calculate the percentual error of a mesure made in laboratory compared to a theorical value.
 (VIEW AS CODE, LEFT UPPER CORNER)
+
 n=int(input("Amount of Mesurements"))
 teorico=[*range(0,n+1)]
 exp=[*range(0,n+1,1)]
